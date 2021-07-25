@@ -1,0 +1,62 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
+.wrapper {
+    max-width: 1200px;
+    margin: auto;
+}
+img {
+    width: 200px;    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 30px;
+}
+.info {
+    display: flex;
+    gap: 20px;
+}
+h1 {
+    font-size: 30px;  
+    margin-top: 0px;
+
+}
+.position {
+    font-size: 1.4rem;
+}
+.contacts {
+    list-style: none;
+    font-size: 1rem;
+}
+main {
+    display: flex;
+    justify-content: space-between;
+}
+aside {
+    width: 20%;
+    align-items: Left;
+    border: 1px solid gray;
+    text-align: center;
+}
+.skils {
+    list-style: none;
+    font-size: 1.2rem;
+    text-align: left;
+}
+.experience {
+    width: 60%;
+}
+h2 {
+    font-size: 1.4rem;
+}
+h3, p {
+    font-size: 1.2rem;
+}
+p {
+    
+}
+
+
